@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tbody-index > tr > td{
+    padding: 2;
+}
+
+.tbody-index > tr{
+    padding: 4;
+}
