@@ -106,7 +106,7 @@
 
                 <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
                     <div class="text-center text-sm sm:text-left">
-                        &nbsp; here added some lines some more lines here we go!
+                        &nbsp; here added some lines some more lines here we go!!!
                     </div>
 
                     <div class="text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
